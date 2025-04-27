@@ -1,3 +1,15 @@
+Application Setup Guide
+Important: The application will not run properly in its current state because I have removed my personal passkey and Gmail ID for privacy reasons.
+
+To make the application work:
+Open the register.php file.
+
+Replace the placeholder values with your personal passkey and Gmail ID.
+
+Update the passkey variable with your own passkey.
+
+Update the gmail_id variable with your own Gmail ID.
+
 Real-Time Chat Application using PHP & WebSockets
 A simple real-time chat application built using PHP, WebSockets, and MySQL to provide fast, low-latency messaging capabilities. This application supports multiple concurrent users and is designed to scale for a growing user base.
 
