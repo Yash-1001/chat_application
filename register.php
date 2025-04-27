@@ -45,7 +45,7 @@ if (isset($_POST["register"])) {
                     $mail->Host = 'smtp.gmail.com';
                     $mail->SMTPAuth = true;
                     $mail->Username = 'ydwivedi007@gmail.com';
-                    $mail->Password = 'vmohzbhwerhsluod'; // ⚠️ Don't expose passwords in code!
+                    $mail->Password = '//write the passkey accordingly'; // ⚠️ Don't expose passwords in code!
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                     $mail->Port = 587;
                     $mail->setFrom('ydwivedi007@gmail.com', 'YASH');
